@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/fm_base-apparel-coming-soon-page/static/js/main.b4b96805.chunk.js",
-    "main.js.map": "/fm_base-apparel-coming-soon-page/static/js/main.b4b96805.chunk.js.map",
+    "main.js": "/fm_base-apparel-coming-soon-page/static/js/main.21807830.chunk.js",
+    "main.js.map": "/fm_base-apparel-coming-soon-page/static/js/main.21807830.chunk.js.map",
     "runtime-main.js": "/fm_base-apparel-coming-soon-page/static/js/runtime-main.f4726eb7.js",
     "runtime-main.js.map": "/fm_base-apparel-coming-soon-page/static/js/runtime-main.f4726eb7.js.map",
     "static/js/2.cc012d07.chunk.js": "/fm_base-apparel-coming-soon-page/static/js/2.cc012d07.chunk.js",
@@ -18,6 +18,6 @@
   "entrypoints": [
     "static/js/runtime-main.f4726eb7.js",
     "static/js/2.cc012d07.chunk.js",
-    "static/js/main.b4b96805.chunk.js"
+    "static/js/main.21807830.chunk.js"
   ]
 }
