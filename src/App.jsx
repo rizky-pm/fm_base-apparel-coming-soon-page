@@ -7,12 +7,14 @@ import Logo from './components/Logo/Logo';
 import Hero from './components/Hero/Hero';
 import Header from './components/Header/Header';
 import InputEmail from './components/InputEmail/InputEmail';
+import Attribution from './components/Attribution/Attribution';
 
 const AppContainer = styled.section`
     display: grid;
     text-align: center;
     place-items: center;
     padding-bottom: 5.625rem;
+    position: relative;
 
     @media only screen and (${(props) => props.theme.breakpoints.laptops}) {
         grid-template-areas:
@@ -56,6 +58,7 @@ function App() {
                 <Hero />
                 <Header />
                 <InputEmail />
+                <Attribution />
             </AppContainer>
         </>
     );
